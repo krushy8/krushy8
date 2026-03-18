@@ -1,5 +1,3 @@
-# Hi there 👋
-
 I'm Katherine, a full-stack developer with a love for clean visuals, plants, and good food.
 
 #### 💻 full-stack developer | 🌱 building [Forkcast](https://github.com/cledx/Forkcast) | 💬 connect on [LinkedIn](https://www.linkedin.com/in/krushy8/)
