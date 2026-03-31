@@ -12,6 +12,7 @@
 - 🎨 Background in screen printing & pre-production art
 - 🍴 Just finished [**Forkcast**](https://github.com/cledx/Forkcast)
 - 🤝 Always happy to connect and collaborate
+- Check out my [**Portfolio**](https://krushy8.vercel.app/)
 
 ## Tech Stack
 
@@ -27,7 +28,7 @@
 <img src="https://skillicons.dev/icons?i=rails,typescript,react,git,github,vscode" />
 </p>
 
-## 🌐 Connect with me
+## Connect with me
 
 <p>
 <a href="https://linkedin.com/in/krushy8">
@@ -35,6 +36,6 @@
 </a>
 
 <a href="mailto:rushkatheriney@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
