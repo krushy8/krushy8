@@ -10,8 +10,9 @@
 
 - 🌿 Plant lover, home cook, and clean UI enthusiast
 - 🎨 Background in screen printing & pre-production art
-- 🍴 Just finished [**Forkcast**](https://github.com/cledx/Forkcast)
+- 🍴 Most recent team project[**Forkcast**](https://github.com/cledx/Forkcast)
 - 🤝 Always happy to connect and collaborate
+- 📝 Currently studying AWS
 - Check out my [**Portfolio**](https://krushy8.vercel.app/)
 
 ## Tech Stack
